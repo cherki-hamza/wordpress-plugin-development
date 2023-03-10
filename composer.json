@@ -1,0 +1,18 @@
+{
+    "name": "cherki/cherki-hamza-plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "cherki-hamza",
+            "email": "cherki0hamza@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    }
+}
